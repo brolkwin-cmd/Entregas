@@ -1,0 +1,1 @@
+console.log(`El resto de 15 entre 4 es ${15%4}`);    
